@@ -6,3 +6,4 @@ diamond
 pearl
 ruby 
 emerald
+vodka

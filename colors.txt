@@ -4,3 +4,5 @@ green
 red
 diamond
 pearl
+ruby 
+emerald

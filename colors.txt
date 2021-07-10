@@ -1,3 +1,5 @@
 orange
 blue
 green
+diamond
+pearl

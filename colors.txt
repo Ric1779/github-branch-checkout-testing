@@ -2,3 +2,5 @@ orange
 blue
 green
 red
+diamond
+pearl
